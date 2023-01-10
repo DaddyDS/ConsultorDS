@@ -5,3 +5,8 @@
 >>> BIN
 >>> IP
 >>> CC CHECKER
+
+Nescessarios:
+
+Python instalado
+Colorama instalado (pip install colorama)
