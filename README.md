@@ -8,5 +8,5 @@
 
 Nescessarios:
 
-Python instalado
+Python instalado\n
 Colorama instalado (pip install colorama)
